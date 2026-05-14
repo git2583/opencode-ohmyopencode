@@ -1,0 +1,70 @@
+{
+  "$schema": "https://raw.githubusercontent.com/code-yeongyu/oh-my-openagent/dev/assets/oh-my-opencode.schema.json",
+  "agents": {
+    "oracle": {
+      "model": "opencode/gpt-5-nano",
+      "variant": "high"
+    },
+    "explore": {
+      "model": "opencode/gpt-5-nano"
+    },
+    "multimodal-looker": {
+      "model": "opencode/gpt-5-nano"
+    },
+    "prometheus": {
+      "model": "opencode/gpt-5-nano"
+    },
+    "metis": {
+      "model": "opencode/gpt-5-nano"
+    },
+    "momus": {
+      "model": "opencode/gpt-5-nano",
+      "variant": "high"
+    },
+    "atlas": {
+      "model": "opencode/gpt-5-nano"
+    },
+    "sisyphus-junior": {
+      "model": "opencode/gpt-5-nano"
+    },
+    "hephaestus": {
+      "model": "opencode/gpt-5-nano"
+    },
+    "sisyphus": {
+      "model": "google/gemini-2.5-flash"
+    },
+    "librarian": {
+      "model": "opencode/gpt-5-nano"
+    }
+  },
+  "categories": {
+    "visual-engineering": {
+      "model": "opencode/gpt-5-nano",
+      "variant": "high"
+    },
+    "ultrabrain": {
+      "model": "opencode/gpt-5-nano",
+      "variant": "high"
+    },
+    "deep": {
+      "model": "opencode/gpt-5-nano",
+      "variant": "high"
+    },
+    "artistry": {
+      "model": "opencode/gpt-5-nano",
+      "variant": "high"
+    },
+    "quick": {
+      "model": "opencode/gpt-5-nano"
+    },
+    "unspecified-low": {
+      "model": "opencode/gpt-5-nano"
+    },
+    "unspecified-high": {
+      "model": "opencode/gpt-5-nano"
+    },
+    "writing": {
+      "model": "opencode/gpt-5-nano"
+    }
+  }
+}
