@@ -1,64 +1,76 @@
-ㅊ{
+{
   "$schema": "https://raw.githubusercontent.com/code-yeongyu/oh-my-openagent/dev/assets/oh-my-opencode.schema.json",
   "agents": {
-    "hephaestus": {
-      "model": "opencode/gpt-5-nano"
-    },
-  "sisyphus": {
-      "model": "google/gemini-2.5-flash"
-    },
     "oracle": {
-      "model": "opencode/gpt-5-nano"
-    },
-    "librarian": {
-      "model": "opencode/gpt-5-nano"
+      "model": "google/antigravity-gemini-3-flash",
+      "variant": "high"
     },
     "explore": {
-      "model": "opencode/gpt-5-nano"
+      "model": "google/antigravity-gemini-3-flash"
     },
     "multimodal-looker": {
-      "model": "opencode/gpt-5-nano"
+      "model": "google/antigravity-gemini-3-flash"
     },
     "prometheus": {
-      "model": "opencode/gpt-5-nano"
+      "model": "google/antigravity-gemini-3-flash"
     },
     "metis": {
-      "model": "opencode/gpt-5-nano"
+      "model": "google/antigravity-gemini-3-flash"
     },
     "momus": {
-      "model": "opencode/gpt-5-nano"
+      "model": "google/antigravity-gemini-3-flash",
+      "variant": "high"
     },
     "atlas": {
-      "model": "opencode/gpt-5-nano"
+      "model": "google/antigravity-gemini-3-flash"
     },
     "sisyphus-junior": {
-      "model": "opencode/gpt-5-nano"
+      "model": "google/antigravity-gemini-3-flash"
+    },
+    "hephaestus": {
+      "model": "google/antigravity-gemini-3-flash"
+    },
+    "sisyphus": {
+      "model": "google/antigravity-gemini-3-flash"
+    },
+    "librarian": {
+      "model": "google/antigravity-gemini-3-flash"
+    },
+    "frontend-ui-ux-engineer": {
+      "model": "google/antigravity-gemini-3-pro-high"
+    },
+    "document-writer": {
+      "model": "google/antigravity-gemini-3-flash"
     }
   },
   "categories": {
     "visual-engineering": {
-      "model": "opencode/gpt-5-nano"
+      "model": "google/antigravity-gemini-3-pro-high",
+      "variant": "high"
     },
     "ultrabrain": {
-      "model": "opencode/gpt-5-nano"
+      "model": "google/antigravity-gemini-3-pro-high",
+      "variant": "high"
     },
     "deep": {
-      "model": "opencode/gpt-5-nano"
+      "model": "google/antigravity-gemini-3-pro-high",
+      "variant": "high"
     },
     "artistry": {
-      "model": "opencode/gpt-5-nano"
+      "model": "google/antigravity-gemini-3-pro-high",
+      "variant": "high"
     },
     "quick": {
-      "model": "opencode/gpt-5-nano"
+      "model": "google/antigravity-gemini-3-flash"
     },
     "unspecified-low": {
-      "model": "opencode/gpt-5-nano"
+      "model": "google/antigravity-gemini-3-flash"
     },
     "unspecified-high": {
-      "model": "opencode/gpt-5-nano"
+      "model": "google/antigravity-gemini-3-flash"
     },
     "writing": {
-      "model": "opencode/gpt-5-nano"
+      "model": "google/antigravity-gemini-3-flash"
     }
   }
 }
